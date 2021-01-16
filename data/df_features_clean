@@ -1,4 +1,4 @@
-,price,sqft_living,sqft_lot,floors,waterfront,condition,yr_built,year_sold,grade_5_6,grade_7_8,grade_9_11,has_basement,has_view,had_renovation,bed_2,bed_3,bed_4,bed_5,bed_6,bath_2,bath_3,bath_4,bath_5,season_spring,season_summer,season_winter1,season_winter2,quad_NW,quad_SE,quad_SW
+,price,sqft_living,sqft_lot,floors,waterfront,condition,yr_built,year_sold,grade_5_6,grade_7_8,grade_9_11,has_basement,viewed,had_renovation,bed_2,bed_3,bed_4,bed_5,bed_6,bath_2,bath_3,bath_4,bath_5,season_spring,season_summer,season_winter1,season_winter2,quad_NW,quad_SE,quad_SW
 0,221900.0,1180,5650,1,0,3,1955,2014,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,538000.0,2570,7242,2,0,3,1951,2014,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 2,180000.0,770,10000,1,0,3,1933,2015,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
